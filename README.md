@@ -58,7 +58,8 @@ Step 7: Finalize and Export
 
 
 # Output:
-[Generative AI Model Comparison Experiment - Google Gemini.pdf](https://github.com/user-attachments/files/30400252/Generative.AI.Model.Comparison.Experiment.-.Google.Gemini.pdf)
+[Generative AI Overview.pdf](https://github.com/user-attachments/files/30400584/Generative.AI.Overview.pdf)
+
 # Prompt:
 
 ### PROMPT 1: Foundational Concepts
