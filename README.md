@@ -57,9 +57,23 @@ Step 7: Finalize and Export
 
 
 
-# Output
+# Output:
+[Generative AI Model Comparison Experiment - Google Gemini.pdf](https://github.com/user-attachments/files/30400252/Generative.AI.Model.Comparison.Experiment.-.Google.Gemini.pdf)
 # Prompt:
 
-[Generative AI Model Comparison Experiment - Google Gemini.pdf](https://github.com/user-attachments/files/30400252/Generative.AI.Model.Comparison.Experiment.-.Google.Gemini.pdf)
+### PROMPT 1: Foundational Concepts
+"Explain the fundamental concepts of Generative AI to a non-technical stakeholder. Use an analogy comparing Generative AI to a creative profession. Contrast its functional goals against traditional discriminative machine learning."
 
+### PROMPT 2: Neural Architectures
+"Provide a technical breakdown of the Transformer architecture. Detail the roles of Query (Q), Key (K), and Value (V) matrices in Scaled Dot-Product Attention. Include the exact mathematical equation and explain why scaled normalization (sqrt(d_k)) is necessary."
+
+### PROMPT 3: Architecture Applications
+"Compare Decoder-Only, Encoder-Only, and Encoder-Decoder architectures across three dimensions: attention flow mechanisms, operational strengths, and prime real-world deployment cases. Format your answer as a Markdown comparison table."
+
+### PROMPT 4: Scaling & Emergent Properties
+"Analyze the trade-offs of the Chinchilla scaling law versus the Kaplan scaling law. Explain why training a smaller model on significantly more tokens can be more economically optimal for deployment than building a larger model."
+
+### PROMPT 5: LLM Construction & Pipeline
+"Outline the 4 key stages of building an instruction-tuned LLM from scratch: Data Curation/Tokenization, Pre-Training, Supervised Fine-Tuning (SFT), and Preference Alignment (RLHF/DPO). Detail the input, output, and primary loss function or objective of each stage."
 # Result
+Here is the complete report covering the concepts, architectures, applications, scaling laws, and LLM construction pipeline for Generative AI
