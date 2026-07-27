@@ -55,11 +55,6 @@ Step 7: Finalize and Export
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
 
-
-
-# Output:
-[Generative AI Overview.pdf](https://github.com/user-attachments/files/30400584/Generative.AI.Overview.pdf)
-
 # Prompt:
 
 ### PROMPT 1: Foundational Concepts
@@ -76,5 +71,11 @@ Step 7: Finalize and Export
 
 ### PROMPT 5: LLM Construction & Pipeline
 "Outline the 4 key stages of building an instruction-tuned LLM from scratch: Data Curation/Tokenization, Pre-Training, Supervised Fine-Tuning (SFT), and Preference Alignment (RLHF/DPO). Detail the input, output, and primary loss function or objective of each stage."
+
+
+# Output:
+[Generative AI Overview.pdf](https://github.com/user-attachments/files/30400584/Generative.AI.Overview.pdf)
+
+
 # Result
 Here is the complete report covering the concepts, architectures, applications, scaling laws, and LLM construction pipeline for Generative AI
